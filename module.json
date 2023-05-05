@@ -1,0 +1,21 @@
+{
+    "name": "mike-chat-cards",
+    "type": "module",
+    "title": "Mike's Chat Cards",
+    "description": "A module to alter the base chat cards.",
+    "version": "1.2.5",
+    "author": "Mike Dao",
+    "includes": [
+        "./module/**",
+        "./styles/**",
+        "./templates/**",
+        "./module.json"
+    ],
+    "esmodules": ["module/main.js"],
+    "styles": ["styles/chatcard.css"],
+    "url": "https://github.com/mikedao/mikes-chat-cards",
+    "manifest": "",
+    "download": "",
+    "minimumCoreVersion": "0.8.5",
+    "compatibleCoreVersion": "10"
+}
