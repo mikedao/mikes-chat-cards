@@ -14,7 +14,7 @@
     "esmodules": ["module/main.js"],
     "styles": ["styles/chatcard.css"],
     "url": "https://github.com/mikedao/mikes-chat-cards",
-    "manifest": "",
+    "manifest": "https://raw.githubusercontent.com/mikedao/mikes-chat-cards/main/module.json",
     "download": "",
     "minimumCoreVersion": "0.8.5",
     "compatibleCoreVersion": "10"
