@@ -15,7 +15,7 @@
     "styles": ["styles/chatcard.css"],
     "url": "https://github.com/mikedao/mikes-chat-cards",
     "manifest": "https://raw.githubusercontent.com/mikedao/mikes-chat-cards/main/module.json",
-    "download": "",
+    "download": "https://github.com/mikedao/mikes-chat-cards/raw/main/mikes-chat-cards.zip",
     "minimumCoreVersion": "0.8.5",
     "compatibleCoreVersion": "10"
 }
